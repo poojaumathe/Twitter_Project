@@ -1,0 +1,3 @@
+# Twitter_Project
+Sentimental Analysis on United Airlines data by extracting tweets from Twitter
+Twitter is a popular social platform for expressing our emotions, activities and popular for housing a massive amount of information around the web. In addition, Twitter can also be an amazing open mine for text and social web analysis. The Twitter API is simply a set of URLs that take parameters. Those URLs allows access to many features of Twitter, such as posting a tweet or finding tweets of specific person or specific topic that contain a word, etc. This project utilizes Twitter API to extract Tweets to analyze and filter the data in required form
